@@ -13,13 +13,13 @@ export function Nav() {
                   <a className="nav-link pe-4" href="/React-Task-6">Home</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link pe-4" href="/about">About me</a>
+                  <a className="nav-link pe-4" href="#About-me-page">About me</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link pe-4" href="/projects">Projects</a>
+                  <a className="nav-link pe-4" href="#projects-page">Projects</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link pe-5" href="/contact">Contact</a>
+                  <a className="nav-link pe-5" href="#contact-page">Contact</a>
                 </li>
               </ul>
             </div>
