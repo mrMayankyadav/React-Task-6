@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Task-6/static/css/main.2215aa03.css",
-    "main.js": "/React-Task-6/static/js/main.7225bb40.js",
+    "main.css": "/React-Task-6/static/css/main.20bdcb2c.css",
+    "main.js": "/React-Task-6/static/js/main.56c28b4f.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Task-6/static/js/787.1ed0c42c.chunk.js",
     "static/media/profile_pic.jpg": "/React-Task-6/static/media/profile_pic.a4a061996c517122581c.jpg",
     "static/media/task2.png": "/React-Task-6/static/media/task2.d047bfd31020a38c8a52.png",
     "static/media/task1.png": "/React-Task-6/static/media/task1.de4aac4f9de322fe58a9.png",
     "static/media/task5.png": "/React-Task-6/static/media/task5.b37c62eb8c7a1ab58bd1.png",
     "index.html": "/React-Task-6/index.html",
-    "main.2215aa03.css.map": "/React-Task-6/static/css/main.2215aa03.css.map",
-    "main.7225bb40.js.map": "/React-Task-6/static/js/main.7225bb40.js.map",
+    "main.20bdcb2c.css.map": "/React-Task-6/static/css/main.20bdcb2c.css.map",
+    "main.56c28b4f.js.map": "/React-Task-6/static/js/main.56c28b4f.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Task-6/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2215aa03.css",
-    "static/js/main.7225bb40.js"
+    "static/css/main.20bdcb2c.css",
+    "static/js/main.56c28b4f.js"
   ]
 }
